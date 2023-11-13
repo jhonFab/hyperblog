@@ -7,3 +7,7 @@ etsa es la nueva version del archivo
 vamos  a ver las nuevas metas propuestas de la vida
 
 la programacion y cada uni de sus detalle 
+
+
+para lo nuevos cambiso para hacer unas practicas interesantes 
+basadas en comandos de gut y github desde nuestro entorno de trabajo <i class="fas fa-lock-alt    "></i>
