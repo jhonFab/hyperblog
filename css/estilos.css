@@ -19,6 +19,20 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+#footer{
+    background:rgb(13, 14, 13);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.952);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    text-align: center;
+}
+#footer #tagline2{
+    margin: 0 0 0 3em;
+    font-weight: normal;
+    font-size: 0.9em;
+}
 
 #container{
 
