@@ -12,4 +12,15 @@ la programacion y cada uni de sus detalle
 
 
 para lo nuevos cambiso para hacer unas practicas interesantes 
-basadas en comandos de gut y github desde nuestro entorno de trabajo <i class="fas fa-lock-alt    "></i>
+basadas en comandos de gut y github desde nuestro entorno de trabajo
+
+
+haciendo practica cambios de desde alisson
+
+desde ahora me enccargare de la parte de l footer
+
+diseño, estructura presentacion y todo lo demas
+
+tenemos nuevas plantilla
+
+aprendiendo a manejar git 
